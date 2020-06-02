@@ -1,0 +1,5 @@
+data:
+  env: service-config-single-client
+  user:
+    username: fengzheng-dev999
+    password: password-dev
